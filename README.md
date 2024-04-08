@@ -35,18 +35,6 @@ DailyScrum is a lightweight tool designed to streamline and enhance your daily s
 
 ---
 
-## Contributing
-
-We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or feedback, your input is valuable to us. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information.
-
----
-
-## Support
-
-If you encounter any issues or have any questions, feel free to reach out to us at support@dailyscrum.com. We're here to help!
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
