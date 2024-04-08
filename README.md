@@ -23,8 +23,8 @@ DailyScrum is a lightweight tool designed to streamline and enhance your daily s
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/DailyScrum.git`
-2. Navigate to the project directory: `cd DailyScrum`
+1. Clone the repository: `git clone https://github.com/Z313PH/Scrumdinger-iOS-App.git`
+2. Navigate to the project directory: `cd Scrumdinger`
 3. Install dependencies: `npm install`
 
 ### Usage
